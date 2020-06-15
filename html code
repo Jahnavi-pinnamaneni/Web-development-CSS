@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<title>CSS</title>
+		<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div>
+			<h1 class="colour">Hi...!Im styling this page using css</h1>
+			<h1 id="name">This is Jahnavi Pinnamaneni</h1>
+		</div>
+		<ul>
+			<li class="colour">Home</li>
+			<li>About</li>
+			<li>Support</li>
+		</ul>
+		<br>
+		<div>
+			<p>Im trying to use hover</p>
+		</div>
+	</body>
+</html>
